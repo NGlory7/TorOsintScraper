@@ -1,0 +1,20 @@
+# Git Attributes
+* text=auto eol=lf
+
+# Explicit text files
+*.py text diff=python
+*.md text
+*.txt text
+*.html text
+*.css text
+*.js text
+*.json text
+*.yml text
+*.yaml text
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary

@@ -1,0 +1,6 @@
+# Tor OSINT Scraper - Hedef URL Listesi
+# Her satıra taranacak bir .onion veya clearnet URL'si ekleyin.
+# Diyez (#) ile başlayan satırlar yoksayılır.
+
+https://check.torproject.org
+http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfima3ogtwv7v64yyad.onion

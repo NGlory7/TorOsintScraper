@@ -1,0 +1,33 @@
+# Python Sanal Ortamları
+.venv/
+venv/
+ENV/
+env/
+
+# Derlenmiş Dosyalar ve Önbellek
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# IDE ve Editör Ayarları
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Tarama Çıktıları ve Oturum Arşivleri
+scans/
+outputs/
+*.log
+
+# Ortam Değişkenleri
+.env
+.env.local
+
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
