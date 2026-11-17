@@ -1,5 +1,6 @@
 # 🧅 Tor OSINT Scraper & Threat Intelligence Suite (v1.2.0)
 
+[![test](https://github.com/NGlory7/TorOsintScraper/actions/workflows/test.yml/badge.svg)](https://github.com/NGlory7/TorOsintScraper/actions/workflows/test.yml)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Tor Network](https://img.shields.io/badge/network-Tor%20SOCKS5-purple.svg)](https://www.torproject.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
